@@ -6,7 +6,7 @@
 > ✅ 最后更新：2025-10-18  
 > ✅ 核心目标：全自动通关《原神》网页小游戏「合成丘丘王」—— 7165步极限挑战！
 >
-> 🤝**改编自[nneonneo/2048-ai](https://github.com/nneonneo/2048-ai)**
+> 🤝**C++决策部分改编自[nneonneo/2048-ai](https://github.com/nneonneo/2048-ai)**
 
 ## 🏆 项目亮点速览（TL;DR）
 
@@ -349,3 +349,4 @@ in the Software without restriction...
 **📌 文档版本：v1.0（原始版本）**  
 **📆 更新日期：2025年10月18日**  
 **🧑‍💻 由 Augenstern 倾情打造，AI助手协助优化**
+
